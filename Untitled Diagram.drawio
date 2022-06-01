@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T05:01:25.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="3WfsxBUzWF_A5lMVNkGw" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T05:02:12.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="AXGaEgpY9QqTxiv0KI0z" version="18.2.0" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1209" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -83,10 +83,11 @@
         <mxCell id="PxHm3q9xVwT1R9bie0Qp-16" value="0.0.0.0:31337&lt;br&gt;acats-server-service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1552.5" y="85" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RFylFYcMgzvB_SiACx0m-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="RFylFYcMgzvB_SiACx0m-2" value="RED SPACE" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry x="0.0286" y="40" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="770" as="sourcePoint" />
             <mxPoint x="600" y="70" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RFylFYcMgzvB_SiACx0m-6" value="DNS C2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RFylFYcMgzvB_SiACx0m-3" target="7d933b09d9755ecc-34" edge="1">
@@ -95,10 +96,11 @@
         <mxCell id="RFylFYcMgzvB_SiACx0m-3" value="User Space" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1900" y="567" width="65" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="RFylFYcMgzvB_SiACx0m-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="RFylFYcMgzvB_SiACx0m-10" value="BLUE SPACE" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry x="0.0286" y="-60" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1320" y="760" as="sourcePoint" />
             <mxPoint x="1320" y="60" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RFylFYcMgzvB_SiACx0m-11" value="&lt;b&gt;&lt;u&gt;GRAY SPACE&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
